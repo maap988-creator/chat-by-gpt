@@ -3,6 +3,6 @@
 
     <style
         name="Theme.CountByGPT"
-        parent="Theme.Material3.DayNight.NoActionBar" />
+        parent="Theme.MaterialComponents.DayNight.NoActionBar" />
 
 </resources>
